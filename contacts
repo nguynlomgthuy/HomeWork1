@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <a href="#main-content" class="skip-link">
+        Skip to Main Content
+    </a>
+
+    <header>
+        <h1>Contact Us</h1>
+        <p>Get in touch with us.</p>
+    </header>
+
+    <nav>
+        <img src="images/logo.png" alt="Park logo">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="parks.html">Parks</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main id="main-content">
+        <h2>Contact Information</h2>
+
+        <p>
+            Thank you for visiting our website.
+            We hope you enjoy exploring beautiful parks.
+        </p>
+
+        <p>Email: example@email.com</p>
+
+        <p>
+            Learn more about nature and parks through
+            your local environmental organizations.
+        </p>
+    </main>
+
+    <footer>
+        <p>Created for Introduction to CSS3 Homework.</p>
+    </footer>
+
+</body>
+</html>
